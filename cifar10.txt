@@ -1,0 +1,162 @@
+
+ Epochs: 50
+ Learning rate: 0.01
+ Lamda value: 0.01
+ Mini batch used: 100
+ activasion function: 1
+ Neurons on hiddel layer: 100
+ Error: 77.21000000000001
+ Training time was: 415.4968847472892
+
+ Epochs: 50
+ Learning rate: 0.01
+ Lamda value: 0.01
+ Mini batch used: 100
+ activasion function: 1
+ Neurons on hiddel layer: 200
+ Error: 76.62
+ Training time was: 764.8239352223609
+
+ Epochs: 50
+ Learning rate: 0.01
+ Lamda value: 0.01
+ Mini batch used: 100
+ activasion function: 1
+ Neurons on hiddel layer: 300
+ Error: 79.49000000000001
+ Training time was: 1137.2140391075718
+
+ Epochs: 50
+ Learning rate: 0.01
+ Lamda value: 0.01
+ Mini batch used: 100
+ activasion function: 2
+ Neurons on hiddel layer: 100
+ Error: 67.71000000000001
+ Training time was: 406.084672236555
+
+ Epochs: 50
+ Learning rate: 0.01
+ Lamda value: 0.01
+ Mini batch used: 100
+ activasion function: 2
+ Neurons on hiddel layer: 200
+ Error: 70.30999999999999
+ Training time was: 748.4238044230278
+
+ Epochs: 50
+ Learning rate: 0.01
+ Lamda value: 0.01
+ Mini batch used: 100
+ activasion function: 2
+ Neurons on hiddel layer: 300
+ Error: 69.55
+ Training time was: 1116.1135086160248
+
+ Epochs: 50
+ Learning rate: 0.01
+ Lamda value: 0.01
+ Mini batch used: 100
+ activasion function: 3
+ Neurons on hiddel layer: 100
+ Error: 69.81
+ Training time was: 402.4009232309727
+
+ Epochs: 50
+ Learning rate: 0.01
+ Lamda value: 0.01
+ Mini batch used: 100
+ activasion function: 3
+ Neurons on hiddel layer: 200
+ Error: 69.33
+ Training time was: 753.2953283780244
+
+ Epochs: 50
+ Learning rate: 0.01
+ Lamda value: 0.01
+ Mini batch used: 100
+ activasion function: 3
+ Neurons on hiddel layer: 300
+ Error: 69.53
+ Training time was: 1120.1842578938213
+
+ Epochs: 50
+ Learning rate: 0.01
+ Lamda value: 0.01
+ Mini batch used: 200
+ activasion function: 1
+ Neurons on hiddel layer: 100
+ Error: 80.74
+ Training time was: 267.609919704606
+
+ Epochs: 50
+ Learning rate: 0.01
+ Lamda value: 0.01
+ Mini batch used: 200
+ activasion function: 1
+ Neurons on hiddel layer: 200
+ Error: 90.0
+ Training time was: 472.84240511849384
+
+ Epochs: 50
+ Learning rate: 0.01
+ Lamda value: 0.01
+ Mini batch used: 200
+ activasion function: 1
+ Neurons on hiddel layer: 300
+ Error: 81.8
+ Training time was: 683.5123773601081
+
+ Epochs: 50
+ Learning rate: 0.01
+ Lamda value: 0.01
+ Mini batch used: 200
+ activasion function: 2
+ Neurons on hiddel layer: 100
+ Error: 74.59
+ Training time was: 258.11041617715455
+
+ Epochs: 50
+ Learning rate: 0.01
+ Lamda value: 0.01
+ Mini batch used: 200
+ activasion function: 2
+ Neurons on hiddel layer: 200
+ Error: 72.52
+ Training time was: 457.7712604008593
+
+ Epochs: 50
+ Learning rate: 0.01
+ Lamda value: 0.01
+ Mini batch used: 200
+ activasion function: 2
+ Neurons on hiddel layer: 300
+ Error: 71.52
+ Training time was: 662.9369006517918
+
+ Epochs: 50
+ Learning rate: 0.01
+ Lamda value: 0.01
+ Mini batch used: 200
+ activasion function: 3
+ Neurons on hiddel layer: 100
+ Error: 70.50999999999999
+ Training time was: 258.24616223152407
+
+ Epochs: 50
+ Learning rate: 0.01
+ Lamda value: 0.01
+ Mini batch used: 200
+ activasion function: 3
+ Neurons on hiddel layer: 200
+ Error: 70.59
+ Training time was: 456.8830215080161
+
+ Epochs: 50
+ Learning rate: 0.01
+ Lamda value: 0.01
+ Mini batch used: 200
+ activasion function: 3
+ Neurons on hiddel layer: 300
+ Error: 71.58
+ Training time was: 663.5288259813278
